@@ -28,6 +28,7 @@ def response_generator():
             "Hello there! How can I assist you today?",
             "Hi, human! Is there anything I can help you with?",
             "Do you need help?",
+            "What do you expect the comedian is dead",
         ]
     )
     for word in response.split():
